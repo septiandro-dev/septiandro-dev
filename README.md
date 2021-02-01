@@ -1,16 +1,24 @@
-### Hi there 👋
-
-<!--
-**septiandro-dev/septiandro-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### English
+## Hello Everybody
+# My Name Is Andro
+ - Student who loves codes
+ - Youtuber but still looking for a name
+ - Beginner programmer from Indonesian
+ - I'm still a student in Junior High School
+ - I live in the city of Pati, Central Java, Indonesian
+ - That's all my introduction
+ TY For Reading
+### Indonesia
+## Hello Masyarakat Bumi
+# Namaku Andro
+Namaku emang kebeneran banyak yang pake.
+Ini ciri ciriku:
+ - Murid Nolep Doyan Koding.
+ - Youtuber tapi gak tau mau kasih nama apa..
+ - Programmer pemula dari Indonesia.
+ - Masih berdiri di bangku Sekolah Menengah Pertama (Atau lebih tepatnya MTs).
+ - Sekolah di Pati, Keseharian Di Kudus, Lahir di Demak.
+ - Punya Facebook, Instagram, Twitter tapi males cantumin di web.
+ - Itulah undang Undang Perkenalan Dari Saya
+ Makan ikan asin pake kaca (emangnya kuda lumping??).
+ Terima Kasih Yang Sudah Baca
