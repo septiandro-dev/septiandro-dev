@@ -20,5 +20,7 @@ Ini ciri ciriku:
  - Sekolah di Pati, Keseharian Di Kudus, Lahir di Demak.
  - Punya Facebook, Instagram, Twitter tapi males cantumin di web.
  - Itulah undang Undang Perkenalan Dari Saya
+ <br>
  Makan ikan asin pake kaca (emangnya kuda lumping??).
+ <br>
  Terima Kasih Yang Sudah Baca
